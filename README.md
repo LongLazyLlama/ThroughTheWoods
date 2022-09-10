@@ -6,5 +6,5 @@ How to play:
 
 Game controls:
 
-Space => Jump
-Esc => Exit game
+Space => Jump.
+Esc => Exit game.
